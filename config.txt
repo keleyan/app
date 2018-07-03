@@ -1,1 +1,1 @@
-{"appid":"com.sscoome.huabantoo","name":"时时彩","show":"true","url":"https://www.sina.com"}
+{"appid":"com.sscoome.huabantoo","name":"时时彩","show":"true","url":"https://www.163.com"}
