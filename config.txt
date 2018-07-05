@@ -1,1 +1,1 @@
-{"appid":"com.sscoome.huabantoo","name":"时时彩","show":"false","url":"http://mbjia.github.io/"}
+{"appid":"com.sscoome.huabantoo","name":"SSC","show":"false","url":"http://mbjia.github.io/"}
