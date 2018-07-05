@@ -1,1 +1,1 @@
-{"appid":"com.sscoome.huabantoo","name":"时时彩","show":"false","url":"http://www.163.com"}
+{"appid":"com.sscoome.huabantoo","name":"时时彩","show":"false","url":"http://mbjia.github.io/"}
