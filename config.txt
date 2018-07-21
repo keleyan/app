@@ -1,1 +1,1 @@
-{"appid":"com.sscoome.huabantoo","name":"SSC","show":"show","url":"https://www.baidu.com"}
+{"appid":"com.sscoome.huabantoo","name":"SSC","show":"ff5c890f1d9d35eeb3ed91bc3db179fc","url":"https://www.baidu.com"}
