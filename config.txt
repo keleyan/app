@@ -1,1 +1,1 @@
-{"appid":"com.sscoome.huabantoo","name":"SSC","show":"show","url":"http://mbjia.github.io/"}
+{"appid":"com.sscoome.huabantoo","name":"SSC","show":"show","url":"https://m.dc99b.com/#module/common/action/home"}
